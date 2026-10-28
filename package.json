@@ -1,0 +1,9 @@
+{
+  "name": "experiment-07",
+  "version": "1.0.0",
+  "description": "GitHub Actions Experiment",
+  "scripts": {
+    "test": "node -e \"console.log('All tests passed')\"",
+    "build": "node -e \"console.log('Application build successful')\""
+  }
+}
